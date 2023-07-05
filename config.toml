@@ -1,6 +1,6 @@
 baseURL = "https://lines-hugo-theme.netlify.app/"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
+title = "Lines"
 disableKinds = ["section", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false
@@ -74,7 +74,7 @@ minify = true
 
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "Hero"
     url        = "/about/"
     weight     = -20
 
